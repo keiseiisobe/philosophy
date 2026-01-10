@@ -21,6 +21,16 @@ One of Hegel's most important and untranslatable terms. Aufheben has three simul
 
 ---
 
+## Idee (German: die Idee)
+
+The Idea is one of the most central concepts in Hegel's philosophy, representing the unity of the Concept (Begriff) and its realization—the complete adequation of thought and being. Unlike the everyday sense of "idea" as a subjective mental representation, Hegel's Idee is objective and absolute: it is truth itself, the fully actualized rational structure of reality. The Idea is the culmination of the entire logical development in Hegel's *Science of Logic*, where it emerges as the Absolute Idea—the self-thinking thought that comprehends itself and all its determinations. In Hegel's system, Nature and Spirit are manifestations of the Idea in its externality and return to itself.
+
+> "Die Idee ist das Wahre an und für sich, die absolute Einheit des Begriffs und der Objektivität."
+> (The Idea is the True in and for itself, the absolute unity of the Concept and objectivity.)
+> — Hegel, *Enzyklopädie der philosophischen Wissenschaften* (Encyclopedia of the Philosophical Sciences), §213, 1817
+
+---
+
 ## Idealism (German: Idealismus)
 
 In Hegel's philosophy, idealism does not mean that the external world is merely an illusion or exists only in our minds. Rather, Hegel's "absolute idealism" holds that reality is ultimately rational and that the structure of thought (the Idea) and the structure of being are identical. For Hegel, the finite world is real but not self-sufficient—it is a manifestation of the Absolute, the self-developing totality of reason. Hegel distinguishes his position from "subjective idealism" (Berkeley, Fichte) which reduces reality to individual consciousness, and develops what he calls "objective" or "absolute" idealism where Spirit (Geist) realizes itself through nature and history.
