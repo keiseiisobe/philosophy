@@ -81,6 +81,26 @@ Dingheit means "thinghood" or "thing-ness"—the abstract universal nature of be
 
 ---
 
+## Eins (German: das Eins)
+
+Eins, "the One," is a central category in Hegel's *Science of Logic*, emerging in the doctrine of Being as the culmination of quality. The One is Being-for-self (Fürsichsein) in its simple, immediate form—a self-related unity that excludes all otherness from itself. When Being becomes determinate and distinguishes itself from what it is not, and then relates this negation back to itself, it becomes the One: a self-enclosed, indivisible unit. The One is thus the first true individual—the logical form of atomicity and discreteness. Yet the One's very self-exclusion implies the existence of other Ones; in repelling otherness, it posits the Many (die Vielen). This dialectic of the One and the Many—where each One both repels and attracts others—leads to Repulsion (Repulsion) and Attraction (Attraktion), and ultimately to the transition from Quality to Quantity. In the *Phenomenology of Spirit*, the One appears in the analysis of perception, where the thing is grasped as a One that possesses many properties while excluding other things. The concept of the One thus bridges the abstract logical sphere and the phenomenological encounter with objects.
+
+> "Das Eins ist die einfache Beziehung des Fürsichseins auf sich selbst, in der seine Momente in sich zusammengefallen sind, in der es daher die Form der Unmittelbarkeit hat."
+> (The One is the simple self-relation of being-for-self, in which its moments have collapsed into themselves, in which it therefore has the form of immediacy.)
+> — Hegel, *Wissenschaft der Logik* (Science of Logic), Book I, Section 1, Chapter 3
+
+---
+
+## Wahrheit (German: die Wahrheit)
+
+Wahrheit, "truth," has a distinctive meaning in Hegel's philosophy that differs significantly from the ordinary correspondence theory where truth is the agreement of a statement with external facts. For Hegel, truth is the agreement of a content with itself—the adequation of a thing's concept (Begriff) with its actuality (Wirklichkeit). Something is true when it fully realizes what it essentially is, when its existence corresponds to its concept. In this sense, we speak of a "true friend" or a "true work of art"—one that fully embodies what friendship or art ought to be. Philosophically, Wahrheit names the result of dialectical development: each category or shape of consciousness reveals its own inadequacy and passes over into a higher form that is its "truth." Thus Hegel says that Becoming is the truth of Being and Nothing, that the Idea is the truth of the Concept, and that Absolute Knowing is the truth of all preceding shapes of Spirit. Truth is not a static property but the dynamic self-unfolding of the Absolute, the whole that comprehends all its moments. The famous claim that "the True is the whole" (*das Wahre ist das Ganze*) expresses this: truth is not found in isolated propositions but in the complete systematic development of thought and reality.
+
+> "Das Wahre ist das Ganze. Das Ganze aber ist nur das durch seine Entwicklung sich vollendende Wesen."
+> (The True is the whole. But the whole is nothing other than the essence consummating itself through its development.)
+> — Hegel, *Phänomenologie des Geistes* (Phenomenology of Spirit), Preface, 1807
+
+---
+
 ### References
 
 - Hegel, G.W.F. *Grundlinien der Philosophie des Rechts* (Elements of the Philosophy of Right). 1820.
