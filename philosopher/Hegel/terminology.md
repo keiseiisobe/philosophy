@@ -61,6 +61,16 @@ Sein, "Being," is the absolute beginning of Hegel's *Science of Logic* and thus 
 
 ---
 
+## Dies (German: dies / dieses)
+
+Dies means "this" and is a pivotal term in Hegel's *Phenomenology of Spirit*, particularly in the opening chapter on sense-certainty (*Die sinnliche Gewißheit*). Sense-certainty claims to be the richest and most immediate form of knowledge—a direct apprehension of "this" particular thing, "here" and "now." Yet Hegel demonstrates that when we try to express this supposedly immediate knowledge, we find that "this," "here," and "now" are not particulars at all but universals. Any "this" can be replaced by another "this"; the word applies equally to anything we might point to. The sensuous "this" that was meant to be singular and concrete turns out to be the most abstract and empty of terms. This dialectical reversal—where the richest becomes the poorest, and the most immediate becomes the most mediated—initiates the phenomenological journey toward absolute knowing. The analysis of Dies reveals that language and thought are inherently universal, and that pure immediacy, when articulated, always already contains mediation.
+
+> "Das Diese, das Hier und Jetzt, sind solche einfache, alle Bestimmung von sich ausschließende Unmittelbarkeit, die doch in sich selbst das Allgemeine ist."
+> (The This, the Here and Now, are such simple immediacy excluding all determination from itself, which yet in itself is the universal.)
+> — Hegel, *Phänomenologie des Geistes* (Phenomenology of Spirit), I. Sense-Certainty, 1807
+
+---
+
 ### References
 
 - Hegel, G.W.F. *Grundlinien der Philosophie des Rechts* (Elements of the Philosophy of Right). 1820.
