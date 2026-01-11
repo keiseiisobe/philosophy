@@ -71,6 +71,16 @@ Dies means "this" and is a pivotal term in Hegel's *Phenomenology of Spirit*, pa
 
 ---
 
+## Dingheit (German: die Dingheit)
+
+Dingheit means "thinghood" or "thing-ness"—the abstract universal nature of being a thing. In Hegel's *Phenomenology of Spirit*, Dingheit emerges in the chapter on perception (*Die Wahrnehmung*) as consciousness attempts to grasp the object as a thing with many properties. The problem that arises is how to understand the unity of the thing: is the thing merely a passive medium in which properties inhere, or is it an active "One" that excludes other things? Dingheit represents the attempt to think the universal nature of thinghood as such—what makes a thing a thing. Yet this concept proves unstable: the thing is supposed to be a self-identical unity, but it is also constituted by its many properties and its relations to other things. The thing's identity depends on its difference from others, and its unity dissolves into a plurality of properties. This dialectical tension drives consciousness beyond perception toward the understanding (*Verstand*) and the concept of force. Dingheit thus marks a crucial moment in the phenomenological development where the naive realism of perceiving independent things breaks down.
+
+> "Die Dingheit selbst, oder die reine Wesentlichkeit, ist das allgemeine Medium, worin die vielen Eigenschaften als sinnliche Allgemeinheiten, jede für sich ist, und als bestimmte, andere von sich ausschließt."
+> (Thinghood itself, or pure essentiality, is the universal medium in which the many properties as sensuous universalities, each for itself, exist and, as determinate, exclude others from themselves.)
+> — Hegel, *Phänomenologie des Geistes* (Phenomenology of Spirit), II. Perception, 1807
+
+---
+
 ### References
 
 - Hegel, G.W.F. *Grundlinien der Philosophie des Rechts* (Elements of the Philosophy of Right). 1820.
