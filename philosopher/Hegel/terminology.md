@@ -39,6 +39,28 @@ In Hegel's philosophy, idealism does not mean that the external world is merely 
 > (What is rational is actual; and what is actual is rational.)
 > — Hegel, *Grundlinien der Philosophie des Rechts* (Elements of the Philosophy of Right), Preface, 1820
 
+---
+
+## Bestimmtheit (German: die Bestimmtheit)
+
+Bestimmtheit means "determinateness" or "definiteness"—the quality by which something is what it is and not something else. In Hegel's *Science of Logic*, Bestimmtheit is fundamental to the movement from pure indeterminate Being (Sein) to determinate Being (Dasein). Pure Being, in its utter abstraction, lacks all Bestimmtheit and thus passes over into Nothing; it is only through acquiring determinateness that Being becomes something definite and real. Bestimmtheit is closely related to Bestimmung (determination, vocation) and negation: to be determinate is to be limited, to be this rather than that, which implies the negation of what it is not. For Hegel, all determinateness is negation (*omnis determinatio est negatio*), a principle he inherits and transforms from Spinoza.
+
+> "Das Dasein ist bestimmtes Sein; seine Bestimmtheit ist seiende Bestimmtheit, Qualität."
+> (Determinate being is determinate being; its determinateness is a determinateness that is, quality.)
+> — Hegel, *Wissenschaft der Logik* (Science of Logic), Book I, Section 1, Chapter 2
+
+---
+
+## Sein (German: das Sein)
+
+Sein, "Being," is the absolute beginning of Hegel's *Science of Logic* and thus of his entire philosophical system. Hegel starts with pure Being—Being without any further determination, without any quality or content whatsoever. It is the most immediate and abstract thought possible: the thought of sheer "is" with nothing predicated of it. Yet precisely because pure Being is entirely indeterminate, it contains no distinction within itself; it is empty, and in its emptiness it is indistinguishable from Nothing (Nichts). This dialectical identity of Being and Nothing constitutes the first movement of the Logic: Being passes over into Nothing, Nothing passes over into Being, and their truth is Becoming (Werden)—the unity of their passing into one another. From this originary movement, all further categories of thought unfold.
+
+> "Sein, reines Sein, — ohne alle weitere Bestimmung."
+> (Being, pure being — without any further determination.)
+> — Hegel, *Wissenschaft der Logik* (Science of Logic), Book I, Section 1, Chapter 1
+
+---
+
 ### References
 
 - Hegel, G.W.F. *Grundlinien der Philosophie des Rechts* (Elements of the Philosophy of Right). 1820.
